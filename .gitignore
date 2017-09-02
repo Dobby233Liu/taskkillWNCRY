@@ -33,5 +33,4 @@
 *.bat
 *.cmd
 
-# Visual Studio
-*.cpp
+
